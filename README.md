@@ -11,7 +11,7 @@ App to check the weather of a city
 :heavy_check_mark: Materialize
 
 <hr>
-:space_invader: Test the app in the following link
+:space_invader: Test the app in the following link:
 
 https://jolly-ride-1fb706.netlify.app
 
